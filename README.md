@@ -53,6 +53,8 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :<br>🚀 Student | Learning Machine Learning & Deep Learning<br><br>🤖 Osama | Exploring AI & Data Science<br><br>🌱 Growing my skills in ML, DL & Python<br><br>📚 Always learning, always building projects</h3>
+<h3 align="left">🔥   My Stats :<br>🚀    
+  
+  Student | Learning Machine Learning & Deep Learning<br><br>🤖 Osama | Exploring AI & Data Science<br><br>🌱 Growing my skills in ML, DL & Python<br><br>📚 Always learning, always building projects</h3>
 
 ###
